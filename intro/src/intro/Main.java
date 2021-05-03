@@ -8,8 +8,7 @@ public class Main {
 		String internetSubeButonu="Ýnternet Þubeye gir";
 		double dolarDun=8.20;
 		double dolarBugun=8.20;
-		int vade=36;
-		boolean dustuMu=false;
+		
 		
 		
 		System.out.println(internetSubeButonu);
