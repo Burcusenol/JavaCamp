@@ -25,11 +25,11 @@ public class Main {
 			System.out.println("Dolar eþittir resmi");
 		}
 		
-		String kredi1="Hýzlý Kredi";
-		String kredi2="Mutlu emekli kredisi";
-		String kredi3="Konut Kredisi";
-		String kredi4="Çiftçi Kredisi";
-		String kredi5="Msb Kredisi";
+		//String kredi1="Hýzlý Kredi";
+		//String kredi2="Mutlu emekli kredisi";
+        //String kredi3="Konut Kredisi";
+		//String kredi4="Çiftçi Kredisi";
+		//String kredi5="Msb Kredisi";
 		
 		
 		String[] krediler= {
